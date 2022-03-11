@@ -1,0 +1,52 @@
+header {
+    height: 50px;
+    width: 100%;
+    background-color: red ;
+    position: fixed;            
+    top: 0;
+    opacity: 0.9;
+}
+
+
+.header-left{
+    font-size:  30px;;
+    color: aliceblue;
+    float:left;
+}
+
+.header-right{
+    float:right;
+    color: aliceblue;
+}
+
+.btn-wrapper{
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.top-wrapper{
+    font-size:40px;
+    color:black;
+    background-color: aqua;
+    text-align: center;
+    padding-top:20px;
+}
+
+.menus-wrapper{
+    text-align: center;
+    
+}
+
+.menu{
+    font-size:20px;
+    text-align:left;
+    width: 25%;
+}
+
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 12px;
+    color: #b3aeb5;
+}
